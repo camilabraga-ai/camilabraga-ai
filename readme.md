@@ -6,6 +6,7 @@ Career transitioner into the data field, currently pursuing a Bachelor's degree 
 
 ## PROJECTS
 - [**Mensagem Astral: GenAI Daily Message App with RAG and Claude**](https://github.com/camilabraga-ai/Mensagem-Astral)
+- [**Radar do Caos: Incident Forecasting and Alert Prioritization (AIOps) with XGBoost, Prophet and Streamlit**](https://github.com/camilabraga-ai/radar-do-caos)
 - [**E-commerce Data Analysis with Python**](https://github.com/camilabraga-ai/ecommerce-python-analysis)
 - [**Interactive E-commerce Dashboard in Looker Studio**](https://github.com/camilabraga-ai/ecommerce-dashboard-analysis)
 
