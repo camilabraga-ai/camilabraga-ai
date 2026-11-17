@@ -29,7 +29,7 @@ Career transitioner into the data field, currently pursuing a Bachelor's degree 
 
 - **Python Libraries & Frameworks:** Streamlit, pytest, jsonschema, Kerykeion (Swiss Ephemeris), geopy
 
-- **Software Engineering:** Automated testing (437 tests), caching, rate limiting, secrets management, deployment (Streamlit Community Cloud), Git/GitHub
+- **Software Engineering:** Automated testing, caching, rate limiting, secrets management, deployment (Streamlit Community Cloud), Git/GitHub
 
 - **Databases:** PostgreSQL, Oracle
 
