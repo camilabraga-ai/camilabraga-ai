@@ -5,6 +5,7 @@
 Career transitioner into the data field, currently pursuing a Bachelor's degree in Data Science at FIAP. I have hands-on experience managing my own e-commerce business and I'm looking for my first opportunity as a data intern or junior analyst, where I can apply and expand my knowledge in data analysis, support data-driven decisions, and contribute to efficient solutions.
 
 ## PROJECTS
+- [**Mensagem Astral: daily-message app with structured RAG and Claude Haiku**](https://github.com/camilabraga-ai/Mensagem-Astral) | [Live demo](https://mensagem-astral.streamlit.app/) — Streamlit app that computes a natal chart (Swiss Ephemeris), retrieves texts from a 224-document knowledge base by metadata (no embeddings) and generates a short daily message in Portuguese with Claude Haiku 5.5. Includes prompt versioning, cache, usage limits and cost controls, and 437 automated tests.
 - [**E-commerce Data Analysis with Python**](https://github.com/camilabraga-ai/ecommerce-python-analysis)
 - [**Interactive E-commerce Dashboard in Looker Studio**](https://github.com/camilabraga-ai/ecommerce-dashboard-analysis)
 
@@ -25,6 +26,10 @@ Career transitioner into the data field, currently pursuing a Bachelor's degree 
 - **Programming and Query Languages:** SQL, Python
 
 - **Version Control:** Git
+
+- **AI / GenAI:** Claude API (Anthropic SDK), prompt engineering, RAG (structured retrieval), LLM output checks, cost and usage controls
+
+- **Applications & Testing:** Streamlit, pytest
 
 - **Databases:** PostgreSQL, Oracle
 
