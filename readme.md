@@ -23,13 +23,13 @@ Career transitioner into the data field, currently pursuing a Bachelor's degree 
 
 ## SKILLS
 
-- **Programming and Query Languages:** SQL, Python
+- **Programming and Query Languages:** Python, SQL
 
-- **Version Control:** Git
+- **AI / GenAI:** Claude API (Anthropic SDK), prompt engineering and prompt versioning, RAG (structured retrieval by metadata), LLM output validation, LLM cost and usage controls
 
-- **AI / GenAI:** Claude API (Anthropic SDK), prompt engineering, RAG (structured retrieval), LLM output checks, cost and usage controls
+- **Python Libraries & Frameworks:** Streamlit, pytest, jsonschema, Kerykeion (Swiss Ephemeris), geopy
 
-- **Applications & Testing:** Streamlit, pytest
+- **Software Engineering:** Automated testing (437 tests), caching, rate limiting, secrets management, deployment (Streamlit Community Cloud), Git/GitHub
 
 - **Databases:** PostgreSQL, Oracle
 
@@ -42,4 +42,3 @@ Career transitioner into the data field, currently pursuing a Bachelor's degree 
 - **Other Skills:** Adobe Suite (Photoshop, Illustrator, InDesign) – visual support in dashboards and presentations
 
 - **Languages:** English (Intermediate)
-
